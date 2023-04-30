@@ -1,36 +1,36 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "RecruitLab",
+    subtitle: "C# and ASP.NET",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    //link: "https://reactbootcamp.com",
+    "",
+    image: "./giphy-5.gif",
+    link: "https://gitlab.com/sdmines/csc340/2023-spring/projects/team-07",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Maze Solver",
+    subtitle: "C++ and GraphQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    //link: "https://reactbootcamp.com",
+      "?",
+    image: "./alice-in-wonderland-maze.gif",
+    link: "https://github.com/JonathanAlexMasc/Maze-Solver",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    //link: "https://reactbootcamp.com",
+    title: "Images",
+    subtitle: "React & Unsplash API",
+    //description:
+      //"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./giphy-2.gif",
+    link: "https://github.com/JonathanAlexMasc/ReactAPI-project",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    //link: "https://reactbootcamp.com",
-  },
+    title: "Img Manipulator",
+    subtitle: "C++",
+    //description:
+      //"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./giphy-6.gif",
+    link: "https://github.com/JonathanAlexMasc/Image-Manipulation-Project",
+  }
 ];
 
 export const testimonials = [
@@ -55,6 +55,8 @@ export const skills = [
   "C++",
   "JavaScript",
   "C#",
-  "LocalDB",
-  "Tailwind CSS"
+  "SQLite",
+  "HTML5 & Tailwind.css",
+  "Python",
+  "x64 Assembly"
 ];

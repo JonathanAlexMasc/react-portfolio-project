@@ -68,7 +68,7 @@ export const experiences = [
     description:
       "Some of my highlights as a swe intern at Blackboard",
     image: "./anthology.jpeg",
-    link: "https://gitlab.com/sdmines/csc340/2023-spring/projects/team-07",
+    link: "https://www.blackboard.com/",
   },
   {
     title: "South Dakota School of Mines and Technology",
@@ -76,7 +76,7 @@ export const experiences = [
     description:
       "Teaching Assistant for CS 170",
     image: "./teaching-assistant.jpg",
-    link: "https://github.com/JonathanAlexMasc/Maze-Solver",
+    link: "https://www.sdsmt.edu/",
   },
   {
     title: "South Dakota School of Mines and Technology",
@@ -84,7 +84,7 @@ export const experiences = [
     description:
     "Mostly tutor intermediate CS classes, along with math and physics.",
     image: "./tutor.jpg",
-    link: "https://github.com/JonathanAlexMasc/ReactAPI-project",
+    link: "https://www.sdsmt.edu/Academics/Student-Success-Center/Tutoring/",
   },
   
 ];

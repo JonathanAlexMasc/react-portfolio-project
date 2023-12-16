@@ -15,6 +15,7 @@ export default function Experience() {
                         Some of my previous internships and work experience in computer science.
                     </p>
                 </div>
+                
                 <div className="flex flex-wrap -m-4">
                     {experiences.map((experience) => (
                         <a
@@ -37,7 +38,6 @@ export default function Experience() {
                                     </h1>
                                 </div>
                             </div>
-
                         </a>
                     ))
                     }

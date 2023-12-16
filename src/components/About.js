@@ -11,9 +11,7 @@ export default function About () {
                         <br className="hidden lg:inline-block" />
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    I'm a computer science major at the South Dakota School of Mines and Technology. I have an 
-                    upcoming software engineering internship with Anthology Inc. for the summer of 2023, where I'll be working on their 
-                    Ultra Platform.
+                    I'm a CS major at the South Dakota School of Mines and Technology. Former Software Engineering Intern at Blackboard, a learning management software company located in Boca Raton, FL.
                     <br />
                     <br />
                     Currently a teaching assistant for CS 170 @ sd mines. Connect with me on <a 
@@ -21,7 +19,7 @@ export default function About () {
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="underline text-blue-600 hover:text-blue-800 visited:text-purple-600">
-                    LinkedIn.</a>
+                    LinkedIn!x</a>
 
             
                     </p>

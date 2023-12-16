@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "C# and ASP.NET",
     description:
     "",
-    image: "./giphy-5.gif",
+    image: "./anthology.jpg",
     link: "https://gitlab.com/sdmines/csc340/2023-spring/projects/team-07",
   },
   {
@@ -59,4 +59,32 @@ export const skills = [
   "HTML5 & Tailwind.css",
   "Python",
   "x64 Assembly"
+];
+
+export const experiences = [
+  {
+    title: "Anthology Inc./Blackboard",
+    subtitle: "Software Engineering Internship",
+    description:
+      "Some of my highlights as a swe intern at Blackboard",
+    image: "./anthology.jpeg",
+    link: "https://gitlab.com/sdmines/csc340/2023-spring/projects/team-07",
+  },
+  {
+    title: "South Dakota School of Mines and Technology",
+    subtitle: "Undergraduate Teaching Assistant",
+    description:
+      "Teaching Assistant for CS 170",
+    image: "./teaching-assistant.jpg",
+    link: "https://github.com/JonathanAlexMasc/Maze-Solver",
+  },
+  {
+    title: "South Dakota School of Mines and Technology",
+    subtitle: "Peer Tutor",
+    description:
+    "Mostly tutor intermediate CS classes, along with math and physics.",
+    image: "./tutor.jpg",
+    link: "https://github.com/JonathanAlexMasc/ReactAPI-project",
+  },
+  
 ];

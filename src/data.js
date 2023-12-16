@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "C# and ASP.NET",
     description:
     "",
-    image: "./anthology.jpg",
+    image: "./mountain.jpg",
     link: "https://gitlab.com/sdmines/csc340/2023-spring/projects/team-07",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "C++ and GraphQL",
     description:
       "?",
-    image: "./alice-in-wonderland-maze.gif",
+    image: "./city-scape.jpg",
     link: "https://github.com/JonathanAlexMasc/Maze-Solver",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "React & Unsplash API",
     //description:
       //"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./giphy-2.gif",
+    image: "./italy.jpg",
     link: "https://github.com/JonathanAlexMasc/ReactAPI-project",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "C++",
     //description:
       //"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./giphy-6.gif",
+    image: "./desert.jpg",
     link: "https://github.com/JonathanAlexMasc/Image-Manipulation-Project",
   }
 ];
